@@ -30,38 +30,6 @@ Automatically generate descriptive captions for images using the BLIP image capt
 
 ---
 
-## 📂 Other Projects
-
-### 3. **[FaceFusionDeepFake](https://huggingface.co/spaces/ajaysoni197/FaceFusionDeepFake)**  
-Explore deepfake generation and face swapping with advanced generative AI techniques.
-
-### 4. **[AI Video Analytics - Net4 Vision](https://huggingface.co/spaces/ajaysoni197/Net4Vision)**  
-An AI-driven system for monitoring and analyzing worker activities in warehouses using YOLO and Nvidia Xavier.  
-
-### 5. **[Python AI Tutorials](https://huggingface.co/spaces/ajaysoni197/PythonAITutorials)**  
-Interactive Python tutorials focusing on AI concepts, libraries, and hands-on projects.  
-
----
-
-## 🛠️ Getting Started
-
-### Prerequisites
-All projects are designed to run on Hugging Face Spaces, so no installation is required. If you want to run the code locally, ensure you have the following:
-
-- Python 3.8+
-- Libraries: `transformers`, `accelerate`, `huggingface_hub`, `gradio`, `diffusers`, `torch`, and other relevant dependencies.
-
-Install dependencies using:
-
-```bash
-pip install transformers accelerate huggingface_hub gradio diffusers torch numpy
-```
-
-### Running Locally
-Clone the project repository and run the scripts directly on your local machine. Detailed instructions are included in each project's code file.
-
----
-
 ## 🌟 Contributions and Feedback
 
 Feel free to explore, use, and customize these projects for your needs. I welcome your feedback, suggestions, and contributions. If you have ideas for new projects or improvements, connect with me on Hugging Face or LinkedIn.
